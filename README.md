@@ -8,7 +8,7 @@
 
 - <a href="https://www.linkedin.com/in/sahilsharma2000">LinkedIn</a>
 
-- <a href="https://www.google.com/">Google</a>
+- <a href="https://shas3c.medium.com/">Blogs</a>
 
 <!---
 Shas3c/Shas3c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
