@@ -6,6 +6,7 @@
 - 
 <h3>📫 Connect With ME</h3>
 - [LinkedIn](https://www.linkedin.com/in/sahilsharma2000)
+- <a href="https://www.google.com/" target="_blank">Google</a>
 
 <!---
 Shas3c/Shas3c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
