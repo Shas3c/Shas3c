@@ -2,7 +2,7 @@
 - 👋 Hi there, I’m Sahil Sharma.
 - 👀 I’m interested in **Cloud** and **Cybersecurity** field.
 - 🌱 Experience - Cloud Security Intern.
-# 📫 Connect With ME
+# 📫 Connect with Me
 
 - <a href="https://www.linkedin.com/in/sahilsharma2000">LinkedIn</a>
 
