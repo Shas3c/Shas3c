@@ -1,4 +1,4 @@
-<h1> ABOUT </h1>
+<h3> ABOUT </h3>
 - 👋 Hi there, I’m Sahil Sharma.
 - 👀 I’m interested in tec
 - 🌱 I’m currently learning ...
