@@ -1,9 +1,10 @@
 <u><h3>ABOUT</h3></u>
 - 👋 Hi there, I’m Sahil Sharma.
 - 👀 I’m interested in **Cloud** and **Cybersecurity** field.
-- 🌱 I’m currently learning ...
+- 🌱 Experience - Cloud Security Intern.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 
+<h3>📫 Connect With ME</h3>
 
 <!---
 Shas3c/Shas3c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
