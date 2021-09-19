@@ -1,4 +1,4 @@
-<u><h3>ABOUT</h3></u>
+# ABOUT
 - 👋 Hi there, I’m Sahil Sharma.
 - 👀 I’m interested in **Cloud** and **Cybersecurity** field.
 - 🌱 Experience - Cloud Security Intern.
