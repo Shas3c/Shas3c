@@ -5,7 +5,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 
 <h3>📫 Connect With ME</h3>
-- LinkedIn (https://www.linkedin.com/in/sahilsharma2000/)
+- LinkedIn[https://www.linkedin.com/in/sahilsharma2000/]
 
 <!---
 Shas3c/Shas3c is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
