@@ -1,7 +1,7 @@
 # About
 - 👋 Hi there, I’m Sahil Sharma.
 - 👀 I’m interested in **Cloud** and **Cybersecurity** field.
-- 🌱 Experience - Application Security Engineer cum Software Engineer.
+- 🌱 Experience - Application Security Engineer/Software Engineer.
 # 📫 Connect with Me
 
 - <a href="https://www.linkedin.com/in/sahilsharma2000">LinkedIn</a>
